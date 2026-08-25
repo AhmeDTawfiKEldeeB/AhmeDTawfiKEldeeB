@@ -92,7 +92,7 @@ I'm an **AI Engineer** based in Egypt and a Computer Engineering student at Tant
 </div>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmeDTawfiKEldeeB&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmeDTawfiKEldeeB&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html" height="165" />
 </div>
 
 <br>
