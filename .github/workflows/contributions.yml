@@ -1,0 +1,31 @@
+name: Update Contribution Snake
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AhmeDTawfiKEldeeB
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
