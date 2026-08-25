@@ -128,6 +128,4 @@ I'm an **AI Engineer** based in Egypt and a Computer Engineering student at Tant
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AhmeDTawfiKEldeeB&style=flat&color=58a6ff" alt="Profile views" />
-
 </div>
