@@ -134,14 +134,14 @@ def create_svg(dark=False):
             "BACKEND",
             [
                 "FastAPI · REST APIs · Pydantic",
-                "SQLAlchemy · WebSockets",
+                "SQLAlchemy ",
             ],
         ),
         (
             "CLOUD & MLOPS",
             [
                 "Docker · AWS · GitHub Actions",
-                "MLflow · Observability",
+                "MLflow ",
             ],
         ),
     ]
