@@ -2140,7 +2140,7 @@
 <text x="595.0" y="515.5" font-family="Arial,sans-serif" font-size="14" fill="#f0f6fc">FAISS · ChromaDB · Cross-Encoder · Semantic Search</text>
 <text x="595.0" y="553.5" font-family="Arial,sans-serif" font-size="14" font-weight="800" fill="#58a6ff" letter-spacing="0.5">BACKEND</text>
 <text x="595.0" y="577.5" font-family="Arial,sans-serif" font-size="14" fill="#f0f6fc">FastAPI · REST APIs · Pydantic</text>
-<text x="595.0" y="599.5" font-family="Arial,sans-serif" font-size="14" fill="#f0f6fc">SQLAlchemy</text>
+<text x="595.0" y="599.5" font-family="Arial,sans-serif" font-size="14" fill="#f0f6fc">SQLAlchemy </text>
 <text x="595.0" y="637.5" font-family="Arial,sans-serif" font-size="14" font-weight="800" fill="#58a6ff" letter-spacing="0.5">CLOUD &amp; MLOPS</text>
 <text x="595.0" y="661.5" font-family="Arial,sans-serif" font-size="14" fill="#f0f6fc">Docker · AWS · GitHub Actions</text>
 <text x="595.0" y="683.5" font-family="Arial,sans-serif" font-size="14" fill="#f0f6fc">MLflow </text>
